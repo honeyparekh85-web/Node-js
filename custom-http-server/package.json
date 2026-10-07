@@ -1,0 +1,9 @@
+{
+  "name": "custom-http-server",
+  "version": "1.0.0",
+  "description": "A beginner-friendly custom HTTP server using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
